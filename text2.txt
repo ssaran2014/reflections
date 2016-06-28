@@ -2,3 +2,10 @@ This is the second file on reflections.
 
 What happens when I initialize a repository?
 Git starts tracking versions, I think. But that happens only when I commit a file.
+
+Working directory is the directory of interest. Files there may be untracked
+or in the staging area.
+
+Respository is where all the committed files are placed.
+
+Staging area is where the files have been added. They have not been committed as yet.
