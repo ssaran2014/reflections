@@ -9,3 +9,18 @@ or in the staging area.
 Respository is where all the committed files are placed.
 
 Staging area is where the files have been added. They have not been committed as yet.
+
+How to use the staging are to make sure there is just one logical change per commit?
+Make change. Commit. Compare staging area with the working directory. Make sure that
+there is just one change.
+
+How are branches useful?
+Branches help experiment with new features, change features. It helps to break stuff
+without taking a risk that all the work done to date will be lost.
+
+How do the diagrams help you visualize?
+Diagrams can help visualize which are the different branches, and where each branch is
+in terms of features added or changed.
+
+Merging files
+Merging files is a good way to combine two branches.
