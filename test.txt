@@ -1,0 +1,14 @@
+This is a test of the text editor.
+
+Having the history of a file is very useful.
+I can see how my thoughts evolved. 
+Based on that I can begin to draw a picture of how I think.
+
+The advantage of manual commit is that you control when you think it is appropriate to commit. Committing in regular intervals runs the risk of the commits not bring logically separate. This makes it hard to follow how the changes fared.
+
+git log and git diff are very useful functions.
+using them I can track changes. And possibly figure out where I went wrong.
+I should really be using them on a daily basis. 
+
+With git, breaking something is okay. Because it is easy to fix it again.
+

@@ -1,0 +1,4 @@
+This is the second file on reflections.
+
+What happens when I initialize a repository?
+Git starts tracking versions, I think. But that happens only when I commit a file.
