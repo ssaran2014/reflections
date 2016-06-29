@@ -9,3 +9,6 @@ And it is space inefficient solution.
 Why use a remote repo than keep all the work local?
 Well, the answer here is obvious. Keepig files in a cloud helps with collaboration. In addition, it is good backup,
 ni case something drastic were to happen to the computer.
+
+This is the second set of changes to the text3 file. It will be another commit with the 
+title of second set of changes.
