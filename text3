@@ -30,3 +30,10 @@ Advantage of last known commit to be stored locally?
 Let's say you're going to be offline for some time, during which you're going to work on 
 your file. It would be helpful for you to know what changes others have made to the master
 file. So, it's better to download the origin/master by fetching before you lose internet access.
+
+How to collaborate without using git and GitHub?
+Collaboration without this tool would certainly be harder. Zip files would be flying by
+on email or dropbox. And still, it would take forever to figure out what changes 
+have been made, unless there was a good log file as well.
+
+On the downside, everyone needs to know how to use git and github and have accounts.
