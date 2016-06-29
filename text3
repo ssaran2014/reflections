@@ -12,3 +12,7 @@ ni case something drastic were to happen to the computer.
 
 This is the second set of changes to the text3 file. It will be another commit with the 
 title of second set of changes.
+
+Pulling changes manually from GitHub makes more sense than having them update automatically.
+This way I have control over when updates are made to my local system. The last thing
+I would want is for my local files to update when I'm not expecting it.
