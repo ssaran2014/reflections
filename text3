@@ -26,3 +26,7 @@ A clone is a copy of the files from GitHub cloud that are created on my computer
 
 A branch is a copy of a file that I can use for experimentation.
 
+Advantage of last known commit to be stored locally?
+Let's say you're going to be offline for some time, during which you're going to work on 
+your file. It would be helpful for you to know what changes others have made to the master
+file. So, it's better to download the origin/master by fetching before you lose internet access.
