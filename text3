@@ -16,3 +16,13 @@ title of second set of changes.
 Pulling changes manually from GitHub makes more sense than having them update automatically.
 This way I have control over when updates are made to my local system. The last thing
 I would want is for my local files to update when I'm not expecting it.
+
+Differences between forks, clones and branches?
+A fork is a duplicate that is created on the GitHub servers. The duplicate is created
+under my name. I can change the files that are stored under my name. But I cannot 
+change the original files under the original authors name.
+
+A clone is a copy of the files from GitHub cloud that are created on my computer.
+
+A branch is a copy of a file that I can use for experimentation.
+
