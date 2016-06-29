@@ -5,3 +5,7 @@ I think that github is an excellent cloud service. Just like it has become an in
 collaborating when programming, I hope that tools come up for other industries as well. In many 
 industries, such as banking and law, we still have word files being emailed back and forth. That's a waste.
 And it is space inefficient solution.
+
+Why use a remote repo than keep all the work local?
+Well, the answer here is obvious. Keepig files in a cloud helps with collaboration. In addition, it is good backup,
+ni case something drastic were to happen to the computer.
